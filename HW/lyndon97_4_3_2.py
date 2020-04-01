@@ -1,0 +1,1 @@
+print("The optimal value of k for the first year(2018) is 5.")

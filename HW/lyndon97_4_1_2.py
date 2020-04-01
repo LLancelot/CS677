@@ -1,0 +1,1 @@
+print("Yes. Some points of same color are actually located close to each other")
